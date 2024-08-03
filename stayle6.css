@@ -1,0 +1,33 @@
+h1{
+    background-color: rgb(20, 243, 243);
+}
+ 
+  p{
+     width: 40%;
+     margin: auto;
+     height: 300px;
+  }
+  a{
+     background-color: rgb(198, 8, 228);
+     padding: 13px;
+     border-radius: 30px;
+  }
+  .fifa2024{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5cfUPosfMcieWNnglb2O1vkaEgXH7ZkH7ow&s);
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    border-radius: 50px;
+    background-repeat: no-repeat;
+     background-size: cover;
+     background-position-x: center;
+     width: 40%;
+      background-color: rgb(50, 50, 216);
+      /*внутриний      */
+      padding: 20px;
+       /*внутриний      */
+      border-radius: 20px;
+      border-width: 20px;
+      margin: 500px;
+      margin: 50px auto
+}
